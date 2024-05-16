@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Eliyas
+- 👋 Hi, I’m @Eliyas Siyoum
 - 👀 I’m interested in Software programming architecture
-- 🌱 I’m  learnig in Adama Science and Technology Universit(ASTU)
+- 🌱 I’m  student of Software Engineering at  Adama Science and Technology Universit(ASTU)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
