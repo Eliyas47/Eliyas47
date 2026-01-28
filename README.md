@@ -77,7 +77,6 @@ To become a skilled Backend / Software Engineer building scalable and intelligen
 ## 📫 Contact
 
 - GitHub: https://github.com/Eliyas47
-- LinkedIn: (Add your LinkedIn link here)
 
 ---
 
