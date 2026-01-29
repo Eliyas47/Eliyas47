@@ -26,6 +26,8 @@ I enjoy building real-world projects that solve practical problems and improve u
 - Python
 - JavaScript
 - C++
+- Java
+  
 
 ### 🌐 Web Development
 - Django
