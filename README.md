@@ -1,4 +1,4 @@
-# Hi, I'm Eliyas Siyoum 👋
+# 👋 Hi, I'm Eliyas Siyoum
 
 🎓 Final Year (5th Year) Software Engineering Student  
 🏫 Adama Science and Technology University  
@@ -23,26 +23,25 @@ I enjoy building real-world projects that solve practical problems and improve u
 ## 🛠 Technical Skills
 
 ### 💻 Programming
-- Python
-- JavaScript
-- C++
-- Java
-  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/> Python  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"/> JavaScript  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="40"/> C++  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Java_logo.svg" width="40"/> Java  
 
 ### 🌐 Web Development
-- Django
-- HTML5 / CSS3
-- Bootstrap
-- REST APIs
+- <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="60"/> Django  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/> HTML5 / <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"/> CSS3  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="40"/> Bootstrap  
+- REST APIs  
 
 ### 🗄 Database
-- PostgreSQL
-- SQLite
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"/> PostgreSQL  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40"/> SQLite  
 
 ### ⚙ Tools
-- Git & GitHub
-- VS Code
-- Postman
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/> Git & GitHub  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/> VS Code  
+- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> Postman  
 
 ---
 
@@ -57,12 +56,11 @@ AI-powered chatbot with:
 - Regenerate response
 - Rate limiting
 
-🔗 Repo: https://github.com/Eliyas47/django-gemini-chatbot
+🔗 [View Repository](https://github.com/Eliyas47/django-gemini-chatbot)
 
 ---
 
 ## 📈 Currently Learning
-
 - Advanced Django (Signals, Middleware, Optimization)
 - System Design
 - Deployment (Render / Railway)
@@ -71,16 +69,14 @@ AI-powered chatbot with:
 ---
 
 ## 🎯 Career Goal
-
 To become a skilled Backend / Software Engineer building scalable and intelligent systems.
 
 ---
 
 ## 📫 Contact
-
-- GitHub: https://github.com/Eliyas47
-- eliassiyoum55@gmail.com
+- GitHub: [Eliyas47](https://github.com/Eliyas47)  
+- Email: **eliassiyoum55@gmail.com**
 
 ---
 
-⭐ I am always open to collaboration and learning opportunities.
+⭐ Always open to collaboration and learning opportunities!
